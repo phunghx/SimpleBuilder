@@ -95,6 +95,7 @@ namespace SimpleBuilder
             builder.addChildFluent("li", "hello")
                 .addChildFluent("li", "world")
                 .addChildFluent("li","class");
+                
             Console.WriteLine(builder);
 
         }
