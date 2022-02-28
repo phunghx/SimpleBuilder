@@ -30,6 +30,7 @@ namespace FunctionalBuilder
         }
 
     }
+    
     public static class PersonBuilderExt
     {
         public static PersonBuilder WorkAs (this PersonBuilder builder, 

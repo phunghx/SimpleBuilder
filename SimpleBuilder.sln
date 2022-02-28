@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StepBuilder", "StepBuilder\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionalBuilder", "FunctionalBuilder\FunctionalBuilder.csproj", "{99CBB990-E12B-4035-A781-880113EB4E4D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacetBuilder", "FacetBuilder\FacetBuilder.csproj", "{E14B0FF2-50CF-43F1-AC9F-2B930FAFF1FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{99CBB990-E12B-4035-A781-880113EB4E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99CBB990-E12B-4035-A781-880113EB4E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99CBB990-E12B-4035-A781-880113EB4E4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E14B0FF2-50CF-43F1-AC9F-2B930FAFF1FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E14B0FF2-50CF-43F1-AC9F-2B930FAFF1FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E14B0FF2-50CF-43F1-AC9F-2B930FAFF1FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E14B0FF2-50CF-43F1-AC9F-2B930FAFF1FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
